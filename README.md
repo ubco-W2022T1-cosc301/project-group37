@@ -28,7 +28,7 @@ Given the public nature of this data, it is intended for all investors as well a
 **Please remember to update this section**
 
 - Person 1: My name is Rimple and I would like to analyze stock performances and apply the analysis methods at scale in the future.
-- Person 2: one sentence about you!
+- Person 2: My name is Ashwin Ramesh and I like Formula 1. 
 - Person 3: one sentence about you!
 
 ## Images
