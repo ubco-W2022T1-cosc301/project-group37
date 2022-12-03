@@ -3,8 +3,10 @@ As part of our analysis for COSC 301 project, we will be looking at stock data f
 
 # Exploratory Data Analysis: 
 We have made some major discoveries as part of our EDA including but not limited to the scope of our dataset. With 495 companies listed in the dataset, we had 7 major columns to analyze namely - date, open, close, high, low, volume and symbol. These values signified various atributes of a stock as shown below -
+[Unique Companies](./images/unique_symbols.png)
 
-Further, we also - 
+Each company has different aspects as shown here, which indicate at different attributes and price values for the stock at certain times throughout the day.
+[Company Data](./images/company-data.png)
 
 # Question 1 + Results: 
 Clearly state your research question, and include 2-3 visualizations that helped you answer your research question. You can create multi-panel figures, but each of your visualizations must speak directly to your research question, and any insights you were able to get from it should be clearly articulated in the figure caption/description.
