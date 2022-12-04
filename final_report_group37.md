@@ -68,6 +68,9 @@ The shape of the absolute value of the relative difference clearly shows, that, 
 
 The probability of positive mistake and its size are more stable, than the negative ones that look less predictible and to depend on some unstudies in this research study
 
+More Information on my analysis can be found at ["Analysis 3"](https://github.com/ubco-W2022T1-cosc301/project-group37/blob/main/notebooks/analysis3.ipynb)
+["Analysis 3 preliminary"](https://github.com/ubco-W2022T1-cosc301/project-group37/blob/main/notebooks/analysis3-preliminary.ipynb)
+
 ![Difference between total revenue and cost of revenue Placeholder](./images/Difference_between_total_revenue_and_cost_of_revenue.jpg)
 
 # Summary/Conclusion: 
