@@ -60,6 +60,8 @@ In the case of a lucrative stock such as apple stock, it can be concluded that t
 
 In the case of Citygroup stock, it can be observed that a reverse split took place in 2011 which caused an increase in the stock price. The expected decrease in trading volume wasn't observed in the case of Citygroup stock. Instead there were sharp spikes in trading volume despite the increase in stock price. It can be speculated that this could be because investors saw 2011 to be a lucrative time to invest in the stock as the financial market was crashing which causes prices to be at their lowest. However, this is an assumption and therefore stock trading volume is temporarily affected by stock splits but these effects are negligible in comparison to the effects of macro economic factors on the stock trading volume.
 
+More Information on my analysis can be found at ["Analysis 2"](https://github.com/ubco-W2022T1-cosc301/project-group37/blob/main/notebooks/analysis2.ipynb).
+
 # Question 3 + Results: 
 ### My main research question was related to the relation between Cost of Revenue and Total Revenue among companies.
 
@@ -97,6 +99,9 @@ More Information on my analysis can be found at ["Analysis 3"](https://github.co
 ![Difference between total revenue and cost of revenue Placeholder](./images/Difference_between_total_revenue_and_cost_of_revenue.jpg)
 
 # Summary/Conclusion: 
-As such, we have completed our analysis and found that the specific tech stocks performed greatly and can be good investment oppotunities in the near future following 2016. Further, Google and Apple showed great returns with rather low volatility while Amazona nd Microsoft proved to produce more returns and have greater yields with higher yield indicating an inverse relationship between the stock yield and volatility. 
+- As such, we have completed our analysis and found that the specific tech stocks performed greatly and can be good investment oppotunities in the near future following 2016. Further, Google and Apple showed great returns with rather low volatility while Amazona nd Microsoft proved to produce more returns and have greater yields with higher yield indicating an inverse relationship between the stock yield and volatility. 
 
-When it comes to the relation between total revenue and cost of revenue, almost for all the companies, half of the total revenue is cost of revenue and the more the revenue, the more the cost of revenue.
+- Furthermore, the analysis of the relation of stock splits with the trading volume led to a conclusion that there are temporary affects on stock trading volume when a stock split makes the stock price favorable for retail investors. However, these effects are negated by macro economical factors such as product releases and recessions for example. 
+
+- When it comes to the relation between total revenue and cost of revenue, almost for all the companies, half of the total revenue is cost of revenue and the more the revenue, the more the cost of revenue.
+
