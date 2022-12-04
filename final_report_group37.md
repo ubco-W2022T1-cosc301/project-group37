@@ -55,7 +55,7 @@ To see, how this line feets to our data, we make the simple "mypredictionGraph" 
 
 After passing the linear regression function to the total dataframe as well as to year-by-year ones, we see that 2012 year coeffitients differ a lot, but not another ones. Let's consider the prediction graphs: 
 
-![Year-to-Year Placeholder](./images/Year-to-Year data.jpg)
+![Year-to-Year Placeholder](./images/Year_to_Year_data.jpg)
 
 As we can see, the data of the year 2012 is more deviated, than the total one or, for example, the 2013 year one. Let us consider the 2012 year as some kind of outlier and separate the other years to one dataframe: 
 
@@ -66,7 +66,9 @@ The shape of the absolute value of the relative difference clearly shows, that, 
 
 The probability of positive mistake and its size are more stable, than the negative ones that look less predictible and to depend on some unstudies in this research study
 
-![Difference between total revenue and cost of revenue Placeholder](./images/Difference between total revenue and cost of revenue.jpg)
+![Difference between total revenue and cost of revenue Placeholder](./images/Difference_between_total_revenue_and_cost_of_revenue.jpg)
 
 # Summary/Conclusion: 
-As such, we have completed our analysis and found that the specific tech stocks performed greatly and can be good investment oppotunities in the near future following 2016. Further, Google and Apple showed great returns with rather low volatility while Amazona nd Microsoft proved to produce more returns and have greater yields with higher yield indicating an inverse relationship between the stock yield and volatility.
+As such, we have completed our analysis and found that the specific tech stocks performed greatly and can be good investment oppotunities in the near future following 2016. Further, Google and Apple showed great returns with rather low volatility while Amazona nd Microsoft proved to produce more returns and have greater yields with higher yield indicating an inverse relationship between the stock yield and volatility. 
+
+When it comes to the relation between total revenue and cost of revenue, almost for all the companies, half of the total revenue is cost of revenue and the more the revenue, the more the cost of revenue.
