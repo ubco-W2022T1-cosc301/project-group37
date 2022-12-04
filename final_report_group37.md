@@ -35,7 +35,31 @@ average return hovered around 200% - 800%. Also, most of the stocks performed fa
 Going over the individual stocks, it can be seen that while all tech stocks provide good investment opportunity, Google provides the best option with low volatility and high yield while Amazon and Microsoft provide highest return with high volatility which may be ideal for investors who can handle high risk in hopes of high return.
 
 # Question 3 + Results: 
-Same as above.
+### My main research question was related to the relation between Cost of Revenue and Total Revenue among companies.
+
+Firstly, I made some preliminary work, reflected in analysis3-preliminary notebook. During this work, I evaluated the current dataset, choosed the values to study, and created the function to read and preprocess the data.
+
+When we look at interquartier ranges for the general data and for years separately, we clearly see that its value reject the hypothesis about proportionality between corsidered variables, as well as hypothesys about the difference close to const: ![Interquatiers Placeholder](./images/Interquartiers.jpg)
+
+However, when we plot the heatmap diagram between cost of revenue and the total revenue, we can see the linear tendences for each year separately as well as for general data
+
+We suppose, that there is a linear dependency of more complex structure. That's why we create functions to make the linear regression for the dataframe for the considered values as well as to show its output. The output contains the information about this method applicability as well as the parameters of the linear function. We suppose, that the dependency is in the form of Cost of revenue = const*Total revenue + const2
+
+To see, how this line feets to our data, we make the simple "mypredictionGraph" plotting function -
+
+![HeatMap Placeholder](./images/HeatMap_diagram_1.jpg)
+![HeatMap Placeholder](./images/HeatMap_diagram_2.jpg)
+![HeatMap Placeholder](./images/HeatMap_diagram_3.jpg)
+![HeatMap Placeholder](./images/HeatMap_diagram_4.jpg)
+
+After passing the linear regression function to the total dataframe as well as to year-by-year ones, we see that 2012 year coeffitients differ a lot, but not another ones. Let's consider the prediction graphs: ![Year-to-Year Placeholder](./images/Year-to-Year data.jpg)
+
+As we can see, the data of the year 2012 is more deviated, than the total one or, for example, the 2013 year one. Let us consider the 2012 year as some kind of outlier and separate the other years to one dataframe: ![Prediciton_graphs Placeholder](.images/Prediction_graphs.jpg)
+
+### Conclusion
+The shape of the absolute value of the relative difference clearly shows, that, generally, the more is the total revenue, the less is error. thus, our linear model works well for the big value of income.
+
+The probability of positive mistake and its size are more stable, than the negative ones that look less predictible and to depend on some unstudies in this research study ![Difference between total revenue and cost of revenue Placeholder](./images/Difference between total revenue and cost of revenue.jpg)
 
 # Summary/Conclusion: 
 As such, we have completed our analysis and found that the specific tech stocks performed greatly and can be good investment oppotunities in the near future following 2016. Further, Google and Apple showed great returns with rather low volatility while Amazona nd Microsoft proved to produce more returns and have greater yields with higher yield indicating an inverse relationship between the stock yield and volatility.
