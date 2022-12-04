@@ -33,6 +33,8 @@ A clear trend from the 6 year data for daily low and high prices for each stock 
 average return hovered around 200% - 800%. Also, most of the stocks performed fairly well post 2010 with significant price grwoth in 2016 for some of them. This shows confidence in the market over the period of 2010-2016 indicating value investment over the years was great. The market did fluctuate over shorter periods but longer period have shown positive outcome.
 Going over the individual stocks, it can be seen that while all tech stocks provide good investment opportunity, Google provides the best option with low volatility and high yield while Amazon and Microsoft provide highest return with high volatility which may be ideal for investors who can handle high risk in hopes of high return.
 
+More Information on my analysis can be found at ["Analysis 1"](https://github.com/ubco-W2022T1-cosc301/project-group37/blob/main/notebooks/analysis1.ipynb).
+
 # Question 2 + Results: 
 
 # Question 3 + Results: 
