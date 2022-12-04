@@ -3,15 +3,14 @@ As part of our analysis for COSC 301 project, we will be looking at stock data f
 
 # Exploratory Data Analysis: 
 We have made some major discoveries as part of our EDA including but not limited to the scope of our dataset. With 495 companies listed in the dataset, we had 7 major columns to analyze namely - date, open, close, high, low, volume and symbol. These values signified various atributes of a stock as shown below -
-[Unique Companies](./images/unique_symbols.png)
+
+![Unique Companies](./images/unique_symbols.png)
 
 Each company has different aspects as shown here, which indicate at different attributes and price values for the stock at certain times throughout the day.
-[Company Data](./images/company-data.png)
+
+![Company Data](./images/company-data.png)
 
 # Question 1 + Results: 
-Clearly state your research question, and include 2-3 visualizations that helped you answer your research question. You can create multi-panel figures, but each of your visualizations must speak directly to your research question, and any insights you were able to get from it should be clearly articulated in the figure caption/description.
-
-# Question 2 + Results: 
 ### I will be looking to perform thorough analysis of the research data to visualize stock performances and draw conclusions from the visulaizations regarding market behavior. Our goal will be to minimize risk and increase returns while choosing a stock portfolio.
 
 The closing values for all FAAMG (Facebook, Apple, Amazon, Microsoft and Google) have been laid out at ![FAAMG Stock Value Placeholder](./images/faamg-stock-values.png)
@@ -33,6 +32,8 @@ we can easily predict
 A clear trend from the 6 year data for daily low and high prices for each stock show that the Tech stocks listed above had shown great value for investment where the
 average return hovered around 200% - 800%. Also, most of the stocks performed fairly well post 2010 with significant price grwoth in 2016 for some of them. This shows confidence in the market over the period of 2010-2016 indicating value investment over the years was great. The market did fluctuate over shorter periods but longer period have shown positive outcome.
 Going over the individual stocks, it can be seen that while all tech stocks provide good investment opportunity, Google provides the best option with low volatility and high yield while Amazon and Microsoft provide highest return with high volatility which may be ideal for investors who can handle high risk in hopes of high return.
+
+# Question 2 + Results: 
 
 # Question 3 + Results: 
 Same as above.
